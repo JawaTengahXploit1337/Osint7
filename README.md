@@ -1,6 +1,6 @@
-# OSINT CHEAT SHEET - List OSINT Tools
+# OSINT PHOTO - List OSINT Tools
 
-[![Github Badge](https://img.shields.io/badge/-Jieyab89-black?style=flat&logo=github&logoColor=white&link=https://github.com/Jieyab89/)](https://github.com/Jieyab89)
+[![Github Badge](https://img.shields.io/badge/-Jieyab89-black?style=flat&logo=github&logoColor=white&link=https://github.com/JawaTengahXploit1337/)](https://github.com/JawaTengahXploit1337)
 
 Contains a list of OSINT tools, OSINT tips, datasets, Maltego transform and others. There are free and paid tools you can use and owner is not responsible, only for knowledge or educational purposes. Sorry if some of the resources have closed the service or error owner doesn't always check what's going on with the resources here, thank you
 
@@ -3295,3 +3295,7 @@ OSINT politics and geopolitics, risk crisis
 
 - [Artnet](https://www.artnet.com/artists/)
 - [NGV AU](https://www.ngv.vic.gov.au/explore/collection/)
+
+ # OSINT The Artists 
+
+- [Source Tools]([https://www.artnet.com/artists/](https://github.com/Jieyab89/OSINT-Cheat-sheet))
