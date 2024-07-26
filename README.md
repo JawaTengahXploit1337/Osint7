@@ -1,4 +1,4 @@
-# OSINT PHOTO - List OSINT Tools
+# OSINT TOOL - List OSINT Tools
 
 [![Github Badge](https://img.shields.io/badge/-Jieyab89-black?style=flat&logo=github&logoColor=white&link=https://github.com/JawaTengahXploit1337/)](https://github.com/JawaTengahXploit1337)
 
